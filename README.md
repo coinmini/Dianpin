@@ -1,2 +1,3 @@
-# Dianpin
-web app like a rate app by React
+# react-simple-o2o-demo
+
+代码尚在开发中
